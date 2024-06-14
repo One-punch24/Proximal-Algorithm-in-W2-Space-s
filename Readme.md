@@ -1,5 +1,5 @@
 # Proximal Algorithm in Wasserstein Space
 
-Code for Langevin Dynamics results is in `main1.py`.
+Results for Langevin Dynamics results are in `main1.ipynb`.
 
-Code for Backward Algorithm for two-Layer NN is in `main.py`.
+Results for Backward Algorithm for two-layer NN are in `main.ipynb`.
